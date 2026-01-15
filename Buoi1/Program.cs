@@ -182,7 +182,7 @@ namespace Buoi1
 
         public static void BT5()
         {
-            
+            Console.WriteLine("hello");
         }
     }
 }

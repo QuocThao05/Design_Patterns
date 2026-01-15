@@ -1,0 +1,7 @@
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\bin\Debug\Buoi2.exe.config
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\bin\Debug\Buoi2.exe
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\bin\Debug\Buoi2.pdb
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\obj\Debug\Buoi2.csproj.AssemblyReference.cache
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\obj\Debug\Buoi2.csproj.CoreCompileInputs.cache
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\obj\Debug\Buoi2.exe
+D:\HK2_Nam_3\MTKCPM\Lab\Buoi1\Buoi2\obj\Debug\Buoi2.pdb
