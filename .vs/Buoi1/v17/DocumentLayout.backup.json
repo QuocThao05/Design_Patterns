@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Line.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Line.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Line.cs",
+              "RelativeToolTip": "Buoi1\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:46:32.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Laptop.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Laptop.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Laptop.cs",
+              "RelativeToolTip": "Buoi1\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:38:50.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Desktop.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Desktop.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Desktop.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Desktop.cs",
+              "RelativeToolTip": "Buoi1\\Desktop.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:37:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Computer.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Computer.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Computer.cs",
+              "RelativeToolTip": "Buoi1\\Computer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:22:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Triangle.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Triangle.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Triangle.cs",
+              "RelativeToolTip": "Buoi1\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:09:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Program.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Program.cs",
+              "RelativeToolTip": "Buoi1\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowK4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:00:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Point2D.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Point2D.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Point2D.cs",
+              "RelativeToolTip": "Buoi1\\Point2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:01:01.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
