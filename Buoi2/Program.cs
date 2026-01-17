@@ -10,7 +10,7 @@ namespace Buoi2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ni hao");
+            Console.WriteLine("ni haoooooo");
         }
     }
 }
