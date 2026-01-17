@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Circle.cs",
               "RelativeDocumentMoniker": "Buoi1\\Circle.cs",
               "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Circle.cs",
               "RelativeToolTip": "Buoi1\\Circle.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:06:12.031Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Rectangle.cs",
               "RelativeDocumentMoniker": "Buoi1\\Rectangle.cs",
@@ -57,21 +57,11 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:14:00.195Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
-              "RelativeDocumentMoniker": "Buoi1\\Square.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
-              "RelativeToolTip": "Buoi1\\Square.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:20:22.216Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -79,29 +69,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Shape.cs",
-              "RelativeDocumentMoniker": "Buoi1\\Shape.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Shape.cs*",
-              "RelativeToolTip": "Buoi1\\Shape.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Square.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
+              "RelativeToolTip": "Buoi1\\Square.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:58:56.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:20:22.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Shape.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Shape.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Shape.cs",
+              "RelativeToolTip": "Buoi1\\Shape.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:58:56.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Program.cs",
               "RelativeDocumentMoniker": "Buoi1\\Program.cs",
               "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Program.cs",
               "RelativeToolTip": "Buoi1\\Program.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAowMgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAswM4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:23:05.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T17:23:05.516Z"
             }
           ]
         }

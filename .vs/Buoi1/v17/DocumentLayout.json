@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BBAD4107-7D40-424F-9E05-588E797FBE73}|Buoi2\\Buoi2.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAD4107-7D40-424F-9E05-588E797FBE73}|Buoi2\\Buoi2.csproj|solutionrelative:buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74955C40-8556-4E81-AF5D-4FE83FF9F2C9}|Buoi1\\Buoi1.csproj|solutionrelative:buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Circle.cs",
               "RelativeDocumentMoniker": "Buoi1\\Circle.cs",
@@ -48,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Rectangle.cs",
               "RelativeDocumentMoniker": "Buoi1\\Rectangle.cs",
@@ -57,20 +61,19 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:14:00.195Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
-              "RelativeDocumentMoniker": "Buoi1\\Square.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
-              "RelativeToolTip": "Buoi1\\Square.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi2\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi2\\Program.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi2\\Program.cs*",
+              "RelativeToolTip": "Buoi2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:20:22.216Z",
+              "WhenOpened": "2026-01-17T17:20:34.829Z",
               "EditorCaption": ""
             },
             {
@@ -80,6 +83,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
+              "RelativeDocumentMoniker": "Buoi1\\Square.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Square.cs",
+              "RelativeToolTip": "Buoi1\\Square.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:20:22.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Shape.cs",
               "RelativeDocumentMoniker": "Buoi1\\Shape.cs",
@@ -87,12 +102,11 @@
               "RelativeToolTip": "Buoi1\\Shape.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:58:56.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:58:56.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi1\\Program.cs",
               "RelativeDocumentMoniker": "Buoi1\\Program.cs",
@@ -100,8 +114,7 @@
               "RelativeToolTip": "Buoi1\\Program.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAswM4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:23:05.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T17:23:05.516Z"
             }
           ]
         }
