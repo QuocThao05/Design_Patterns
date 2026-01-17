@@ -182,7 +182,29 @@ namespace Buoi1
 
         public static void BT5()
         {
-            Console.WriteLine("hello");
+            Shape shape = new Shape("red", true);
+            Console.WriteLine(shape.ToString());
+
+            Circle circle = new Circle("blue", true,5.5);
+            Console.WriteLine(circle.ToString());
+            Console.WriteLine("Radius: " + circle.getRadius());
+            Console.WriteLine("Area: " + circle.Area());
+            Console.WriteLine("Perimeter: " + circle.Perimeter());
+            Console.WriteLine("----------------");
+
+            Rectangle rectangle = new Rectangle("green", true,2.0, 4.0);
+            Console.WriteLine(rectangle.ToString());
+            Console.WriteLine("Width: " + rectangle.getWidth());
+            Console.WriteLine("Length: " + rectangle.getLength());
+            Console.WriteLine("Area: " + rectangle.Area());
+            Console.WriteLine("Perimeter: " + rectangle.Perimeter());
+            Console.WriteLine("--------------------------------");
+
+            Square square = new Square("violet",true,6.6);
+            Console.WriteLine(square.ToString());
+            Console.WriteLine("Side: " + square.getSide());
+            Console.WriteLine("Area: " + square.Area());
+            Console.WriteLine("Perimeter: " + square.Perimeter());
         }
     }
 }
