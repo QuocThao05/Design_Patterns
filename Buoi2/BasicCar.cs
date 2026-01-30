@@ -18,11 +18,11 @@ namespace Buoi2
         {
             if (basePrice > 10000000)
             {
-                onRoadPrice = basePrice + (int)(basePrice * 10 / 100.0);
+                onRoadPrice = basePrice + (int)(basePrice * 0.1);
             }
             else if (basePrice > 20000000 )
             {
-                onRoadPrice = basePrice + (int)(basePrice * 5 / 100.0);
+                onRoadPrice = basePrice + (int)(basePrice * 0.05);
             }
             return onRoadPrice;
         }
