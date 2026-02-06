@@ -10,10 +10,9 @@ namespace Buoi2
     {
         static void Main(string[] args)
         {
+            //Bài 1 - Singleton Pattern
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Singleton Pattern Demo");
-
-
 
             Console.WriteLine("Tạo instance 1:");
             Singleton i1 = Singleton.Instance;
@@ -30,8 +29,8 @@ namespace Buoi2
             }
 
 
-
-
+            // Bài 2 - Prototype Pattern
+            //Console.WriteLine("\nPrototype Pattern Demo");
             //// gán giá trị cho các đối tượng Nano và Ford
             //BasicCar nano_base = new Nano("C300",15000000);
             //BasicCar ford_base = new Ford("Mustang GT",25000000);

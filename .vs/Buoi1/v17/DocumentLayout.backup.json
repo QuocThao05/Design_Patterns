@@ -3,68 +3,24 @@
   "WorkspaceRootPath": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi4\\decorator\\paintdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\decorator\\paintdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\wildtiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\wildtiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi4\\decorator\\floordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\decorator\\floordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\wilddog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\wilddog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi4\\decorator\\concretehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\decorator\\concretehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\wildanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\wildanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi4\\decorator\\abstracthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\decorator\\abstracthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\pettiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\pettiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\petdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\petdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\petanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\petanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\itiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\itiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\ianimalfactory3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\ianimalfactory3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\dogfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\dogfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7BA09-C6C1-464B-86D5-004751956CE1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|d:\\hk2_nam_3\\mtkcpm\\lab\\buoi1\\buoi4\\decorator\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC6C63F-C992-4DB1-876E-434EA7A5B8BF}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\decorator\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,221 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tiger.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Tiger.cs",
-              "RelativeDocumentMoniker": "Buoi3\\Tiger.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Tiger.cs",
-              "RelativeToolTip": "Buoi3\\Tiger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T05:57:27.671Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IAnimalFactory.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimalFactory.cs",
-              "RelativeDocumentMoniker": "Buoi3\\IAnimalFactory.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimalFactory.cs",
-              "RelativeToolTip": "Buoi3\\IAnimalFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PaintDecorator.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\PaintDecorator.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Decorator\\PaintDecorator.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\PaintDecorator.cs",
+              "RelativeToolTip": "Buoi4\\Decorator\\PaintDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:45:12.878Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PetAnimalFactory.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetAnimalFactory.cs",
-              "RelativeDocumentMoniker": "Buoi3\\PetAnimalFactory.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetAnimalFactory.cs",
-              "RelativeToolTip": "Buoi3\\PetAnimalFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:50:16.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WildAnimalFactory.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildAnimalFactory.cs",
-              "RelativeDocumentMoniker": "Buoi3\\WildAnimalFactory.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildAnimalFactory.cs",
-              "RelativeToolTip": "Buoi3\\WildAnimalFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:49:47.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PetTiger.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetTiger.cs",
-              "RelativeDocumentMoniker": "Buoi3\\PetTiger.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetTiger.cs",
-              "RelativeToolTip": "Buoi3\\PetTiger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:49:19.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PetDog.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetDog.cs",
-              "RelativeDocumentMoniker": "Buoi3\\PetDog.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\PetDog.cs",
-              "RelativeToolTip": "Buoi3\\PetDog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:48:23.023Z",
+              "WhenOpened": "2026-02-06T06:53:19.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WildTiger.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildTiger.cs",
-              "RelativeDocumentMoniker": "Buoi3\\WildTiger.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildTiger.cs",
-              "RelativeToolTip": "Buoi3\\WildTiger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "FloorDecorator.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\FloorDecorator.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Decorator\\FloorDecorator.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\FloorDecorator.cs",
+              "RelativeToolTip": "Buoi4\\Decorator\\FloorDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:48:05.168Z",
+              "WhenOpened": "2026-02-06T06:53:18.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WildDog.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildDog.cs",
-              "RelativeDocumentMoniker": "Buoi3\\WildDog.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\WildDog.cs",
-              "RelativeToolTip": "Buoi3\\WildDog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Title": "ConcreteHome.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\ConcreteHome.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Decorator\\ConcreteHome.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\ConcreteHome.cs",
+              "RelativeToolTip": "Buoi4\\Decorator\\ConcreteHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:47:40.961Z",
+              "WhenOpened": "2026-02-06T06:53:17.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITiger.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\ITiger.cs",
-              "RelativeDocumentMoniker": "Buoi3\\ITiger.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\ITiger.cs",
-              "RelativeToolTip": "Buoi3\\ITiger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AbstractHome.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\AbstractHome.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Decorator\\AbstractHome.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\AbstractHome.cs",
+              "RelativeToolTip": "Buoi4\\Decorator\\AbstractHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:47:09.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IDog.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IDog.cs",
-              "RelativeDocumentMoniker": "Buoi3\\IDog.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IDog.cs",
-              "RelativeToolTip": "Buoi3\\IDog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:46:47.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAnimalFactory3.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimalFactory3.cs",
-              "RelativeDocumentMoniker": "Buoi3\\IAnimalFactory3.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimalFactory3.cs",
-              "RelativeToolTip": "Buoi3\\IAnimalFactory3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:45:40.084Z",
+              "WhenOpened": "2026-02-06T06:53:17.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TigerFactory.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\TigerFactory.cs",
-              "RelativeDocumentMoniker": "Buoi3\\TigerFactory.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\TigerFactory.cs",
-              "RelativeToolTip": "Buoi3\\TigerFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "AbstractDecorator.cs",
+              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\AbstractDecorator.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Decorator\\AbstractDecorator.cs",
+              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi4\\Decorator\\AbstractDecorator.cs",
+              "RelativeToolTip": "Buoi4\\Decorator\\AbstractDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:48:57.765Z",
+              "WhenOpened": "2026-02-06T06:53:16.797Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DogFactory.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\DogFactory.cs",
-              "RelativeDocumentMoniker": "Buoi3\\DogFactory.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\DogFactory.cs",
-              "RelativeToolTip": "Buoi3\\DogFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:46:44.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Dog.cs",
-              "RelativeDocumentMoniker": "Buoi3\\Dog.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Dog.cs",
-              "RelativeToolTip": "Buoi3\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T05:55:15.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IAnimal.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimal.cs",
-              "RelativeDocumentMoniker": "Buoi3\\IAnimal.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\IAnimal.cs",
-              "RelativeToolTip": "Buoi3\\IAnimal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T05:53:28.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Program.cs",
-              "RelativeDocumentMoniker": "Buoi3\\Program.cs",
-              "ToolTip": "D:\\HK2_Nam_3\\MTKCPM\\Lab\\Buoi1\\Buoi3\\Program.cs",
-              "RelativeToolTip": "Buoi3\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:46:24.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }

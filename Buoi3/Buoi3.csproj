@@ -43,33 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dog.cs" />
-    <Compile Include="DogFactory.cs" />
-    <Compile Include="IAnimal.cs" />
-    <Compile Include="IAnimalFactory.cs" />
-    <Compile Include="IAnimalFactory3.cs" />
-    <Compile Include="IDog.cs" />
-    <Compile Include="ISimpleFactory.cs" />
-    <Compile Include="ITiger.cs" />
-    <Compile Include="PetAnimalFactory.cs" />
-    <Compile Include="PetDog.cs" />
-    <Compile Include="PetTiger.cs" />
+    <Compile Include="SimpleFactory\Dog.cs" />
+    <Compile Include="FactoryMethod\DogFactory.cs" />
+    <Compile Include="SimpleFactory\IAnimal.cs" />
+    <Compile Include="FactoryMethod\IAnimalFactory.cs" />
+    <Compile Include="AbstractFactory\IAnimalFactory3.cs" />
+    <Compile Include="AbstractFactory\IDog.cs" />
+    <Compile Include="SimpleFactory\ISimpleFactory.cs" />
+    <Compile Include="AbstractFactory\ITiger.cs" />
+    <Compile Include="AbstractFactory\PetAnimalFactory.cs" />
+    <Compile Include="AbstractFactory\PetDog.cs" />
+    <Compile Include="AbstractFactory\PetTiger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleFactory.cs" />
-    <Compile Include="Tiger.cs" />
-    <Compile Include="TigerFactory.cs" />
-    <Compile Include="WildAnimalFactory.cs" />
-    <Compile Include="WildDog.cs" />
-    <Compile Include="WildTiger.cs" />
+    <Compile Include="SimpleFactory\SimpleFactory.cs" />
+    <Compile Include="SimpleFactory\Tiger.cs" />
+    <Compile Include="FactoryMethod\TigerFactory.cs" />
+    <Compile Include="AbstractFactory\WildAnimalFactory.cs" />
+    <Compile Include="AbstractFactory\WildDog.cs" />
+    <Compile Include="AbstractFactory\WildTiger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AbstractFactory\" />
-    <Folder Include="FactoryMethod\" />
-    <Folder Include="SimpleFactory\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -11,10 +11,8 @@ namespace Buoi3
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-
+            //// Bài 1 - Simple Factory Pattern
             Console.WriteLine("*** Simple Factory Pattern Demo***\n");
-
-            //// Bài 1
             //IAnimal preferredType = null;
             //ISimpleFactory simpleFactory = new SimpleFactory();
             //#region The code region that will vary based on users preference             
@@ -26,7 +24,7 @@ namespace Buoi3
             //preferredType.Action();
             //preferredType.AboutMe();
 
-            //// Bài 2 
+            //// Bài 2 - Factory Method Pattern
             //Console.WriteLine("***Factory Pattern Demo***\n");
             //// Creating a Tiger Factory  
             //IAnimalFactory tigerFactory = new TigerFactory();
@@ -40,7 +38,8 @@ namespace Buoi3
             //IAnimal dog = dogFactory.CreateAnimal();
             //dog.AboutMe();
 
-            // Bài 3
+            // Bài 3 - Abstract Factory Pattern
+            //Console.WriteLine("*** Abstract Factory Pattern Demo***\n");
             //Making a wild dog through WildAnimalFactory 
             IAnimalFactory3 wildAnimalFactory = new WildAnimalFactory();
             IDog wildDog = wildAnimalFactory.GetDog();
