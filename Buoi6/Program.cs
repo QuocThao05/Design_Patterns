@@ -1,0 +1,150 @@
+﻿using Buoi6.Bridge;
+using Buoi6.Composite;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Buoi6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Bài 1
+            // Console.WriteLine("***Composite Pattern Demo. ***");
+            // #region Mathematics department
+            // // 2 lecturers work in Mathematics department
+            // Employee mathTeacher1 = new Employee
+            // {
+            //     Name = "M.Joy",
+            //     Dept = "Mathematic",
+            //     Designation = "Lecturer"
+            // };
+            // Employee mathTeacher2 = new Employee
+            // {
+            //     Name = "M.Roony",
+            //     Dept = "Mathematics",
+            //     Designation = "Lecturer"
+            // };
+            // // The college has a Head of Department in Mathematics
+            // CompositeEmployee hodMaths = new CompositeEmployee
+            // {
+            //     Name = "Mrs.S.Das",
+            //     Dept = "Maths",
+            //     Designation = "HOD-Maths"
+            // };
+            // // Lecturers of Mathematics directly reports to HOD-Maths
+            // hodMaths.AddEmployee(mathTeacher1);
+            // hodMaths.AddEmployee(mathTeacher2);
+            // #endregion
+            // #region Computer Science department
+            // // 3 lecturers work in Computer Sc. department
+            // Employee cseTeacher1 = new Employee
+            // {
+            //     Name = "C.Sam",
+            //     Dept = "Computer Science",
+            //     Designation = "Lecturer"
+            // };
+            // Employee cseTeacher2 = new Employee
+            // {
+            //     Name = "C.Jones",
+            //     Dept = "Computer Science.",
+            //     Designation = "Lecturer"
+            // };
+            // Employee cseTeacher3 = new Employee
+            // {
+            //     Name = "C.Marium",
+            //     Dept = "Computer Science",
+            //     Designation = "Lecturer"
+            // };
+            // // The college has a Head of Department in Computer science
+            // CompositeEmployee hodCompSc = new CompositeEmployee
+            // {
+            //     Name = "Mr. V.Sarcar",
+            //     Dept =
+            //"Computer Sc.",
+            //     Designation = "HOD-Computer Sc."
+            // };
+            // /* Lecturers of Computer Sc. directly reports to HOD-CSE */
+            // hodCompSc.AddEmployee(cseTeacher1);
+            // hodCompSc.AddEmployee(cseTeacher2);
+            // hodCompSc.AddEmployee(cseTeacher3);
+            // #endregion
+            // #region Top level management
+            // // The college also has a Principal
+            // CompositeEmployee principal = new CompositeEmployee
+            // {
+            //     Name = "Dr.S.Som",
+            //     Dept =
+            //"Planning-Supervising-Managing",
+            //     Designation = "Principal"
+            // };
+            // /* Head of Departments's of Maths and Computer Science directly
+            // reports to Principal.*/
+            // principal.AddEmployee(hodMaths);
+            // principal.AddEmployee(hodCompSc);
+            // #endregion
+            // /*
+            // * Printing the leaf-nodes and branches in the same way. i.e.
+            // in each case, we are calling DisplayDetails() method.
+            // */
+            // Console.WriteLine("\nDetails of a Principal object is as follows:");
+            // // Prints the complete structure
+            // principal.DisplayDetails();
+            // Console.WriteLine("\nDetails of a HOD object is as follows:");
+            // /* Prints the details of Computer Science department */
+            // hodCompSc.DisplayDetails();
+            // // Leaf node
+            // Console.WriteLine("\nDetails of an individual employee(leaf node) is as follows:");
+            // mathTeacher1.DisplayDetails();
+            // /*
+            //  * Suppose, one Computer Science lecturer(C.Jones)
+            //  * is leaving now from the organization.
+            //  */
+            // hodCompSc.RemoveEmployee(cseTeacher2);
+            // Console.WriteLine("\nAfter the resignation of C.Jones, the organization has the following members: ");
+            // principal.DisplayDetails();
+            // // Wait for user
+            // Console.ReadKey();
+
+
+
+
+            // Bài 2
+            Console.WriteLine("***Alternative Implementation of Bridge Pattern.* **");
+            #region Television details
+            Console.WriteLine("Verifying the market price of a television.");
+            ElectronicGoods eItem = new Television(new OnlinePrice());
+            // Verifying online price details
+            eItem.Details();
+            // Giving 10% discount
+            eItem.Discount(10);
+            // Verifying showroom price
+            eItem = new Television(new ShowroomPrice());
+            eItem.Details();
+            // Giving 10% discount
+            eItem.Discount(10);
+            #endregion
+            #region DVD details
+            Console.WriteLine("\n\nNow checking the DVD details.");
+            // Verifying online price
+            eItem = new DVD(new OnlinePrice());
+            eItem.Details();
+            // Giving 10% discount
+            eItem.Discount(10);
+            // Verifying showroom price
+            eItem = new DVD(new ShowroomPrice());
+            eItem.Details();
+            Console.WriteLine("\nIn showroom, you want to give double discounts at festive season.");
+           
+            Console.WriteLine("For DVD, you can get double discounts using theDoubleDiscount() method.");
+            //eItem.Discount();
+            Console.WriteLine("For example, in festive season:");
+            ((DVD)eItem).DoubleDiscount();
+            #endregion
+        }
+    }
+}
+

@@ -1,0 +1,8 @@
+D:\Design_Patterns\Buoi6\bin\Debug\Buoi6.exe.config
+D:\Design_Patterns\Buoi6\bin\Debug\Buoi6.exe
+D:\Design_Patterns\Buoi6\bin\Debug\Buoi6.pdb
+D:\Design_Patterns\Buoi6\obj\Debug\Buoi6.csproj.AssemblyReference.cache
+D:\Design_Patterns\Buoi6\obj\Debug\Buoi6.csproj.SuggestedBindingRedirects.cache
+D:\Design_Patterns\Buoi6\obj\Debug\Buoi6.csproj.CoreCompileInputs.cache
+D:\Design_Patterns\Buoi6\obj\Debug\Buoi6.exe
+D:\Design_Patterns\Buoi6\obj\Debug\Buoi6.pdb
